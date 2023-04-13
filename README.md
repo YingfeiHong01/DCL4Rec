@@ -1,4 +1,4 @@
-We use the recbole framework to facilitate our experiments. Our model is in the /recbole/model/sequential_recommender and named as dcl4rec.py. 
+We use the recbole framework to facilitate our experiments. Our model is in the /recbole/model/sequential_recommender folder and named as dcl4rec.py. 
 
 ## Installation
 
